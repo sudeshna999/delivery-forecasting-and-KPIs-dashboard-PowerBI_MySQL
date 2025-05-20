@@ -8,7 +8,7 @@ The goal is to help delivery companies optimize operations, reduce delays, and e
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **MySQL** for querying
 - **SQL** concepts: CTEs, window functions, groupings, and aggregations
