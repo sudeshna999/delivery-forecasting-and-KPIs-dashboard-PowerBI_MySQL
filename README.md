@@ -113,19 +113,18 @@ output
 
 ## 📊 Dashboard Views
 
-![image](https://github.com/user-attachments/assets/5b875aa1-391a-4bb3-8a34-62cd53d2a36e)
+
+![image](https://github.com/user-attachments/assets/6516df05-8683-42c2-9b5a-ba1b5b982356)
+
+![image](https://github.com/user-attachments/assets/30e20622-4351-4841-bed8-df7fc0a3de36)
+
+![image](https://github.com/user-attachments/assets/073b66d3-07bc-4b7c-b30b-48faf57743cd)
+
+![image](https://github.com/user-attachments/assets/7716ce8a-43c3-4b02-a28b-98d7a6317fb4)
+
+![image](https://github.com/user-attachments/assets/caa1250b-fc8a-4b43-9c44-095a5dbcf7bb)
 
 
-![image](https://github.com/user-attachments/assets/ee34fa47-a895-4d45-aa1b-83e85f613950)
-
-
-![image](https://github.com/user-attachments/assets/c6815d3d-bce9-4bc0-90c7-23d949743fab)
-
-
-![image](https://github.com/user-attachments/assets/b5314705-3952-4049-b074-dd1705c17684)
-
-
-![image](https://github.com/user-attachments/assets/70d815db-58b0-44a4-b4fb-fe9e3f14fee6)
 
 
 
