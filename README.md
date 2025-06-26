@@ -6,6 +6,8 @@ Advanced SQL techniques—including recursive date generation and predictive que
 
 The goal is to help delivery companies optimize operations, reduce delays, and enhance customer experience through data-driven strategies.
 
+> **Live Link** https://app.powerbi.com/view?r=eyJrIjoiNmU3ZDk2MjQtZDQ1NS00MDVlLWE1NmMtMTg4OTQ4ZTI2YTkxIiwidCI6ImZjNTIzNTI4LTNkMzgtNGNhMy05NGRkLTU5NjIzMDJkMzBlOCJ9
+
 ---
 
 ##  Tech Stack
